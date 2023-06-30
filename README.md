@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nayan1255&column=-1" alt="nayan1255's GitHub trophy">
+</div>
+
+<hr>
+
+- 🐍 Python: Advanced
+- 🦈 Docker: Junior
+- 📦 JavaScript: Junior
+- 👀 C/C++: Junior
+- 🎨 Graphic Design: Junior
+- 🖼️ Image Manipulation: Junior
+- 📷 Photography: Junior
+- 🎬 Non-Linear Editing: Junior
+- 📱 GUI: Advanced
+- 🍥 OS: Debian and Arch Based Linux
+- 💭 Pronouns: he/him
+- 📫 E-mail: [nayanthorat125@gmail.com](mailto:nayanthorat125@gmail.com)
